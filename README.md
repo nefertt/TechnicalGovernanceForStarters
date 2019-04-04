@@ -1,6 +1,8 @@
 Team Members:
 Sergey Erlikh
 Ayako Sawada 
+Stas Dunayev
+Eze Chiana
 
 Project Overview:
 Name of Project - Technical Governance For Starters
